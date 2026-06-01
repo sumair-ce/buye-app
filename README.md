@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="color: #2E8B57; border-bottom: 2px solid #2E8B57; padding-bottom: 10px;">🛒 Buye - Buy Now Pay Later</h1>
+  <h1 style="color: #2E8B57; border-bottom: 2px solid #2E8B57; padding-bottom: 10px;">Buye - Buy Now Pay Later</h1>
   <p style="font-size: 1.1em; color: #555;">
-    <em>Revolutionizing shopping in Ghana (Africa) with flexible, accessible, and stress-free installment plans.</em>
+    Revolutionizing shopping in Ghana (Africa) with flexible, accessible, and stress-free installment plans.
   </p>
 </div>
 
