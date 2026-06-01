@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./p2.png" alt="Mockup Image" width="100%">
+</p>
 
 <div align="center" style="font-family: Arial, sans-serif;">
 
