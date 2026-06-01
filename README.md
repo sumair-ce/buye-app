@@ -2,7 +2,7 @@
 <div align="center" style="font-family: Arial, sans-serif;">
 
   <h1 style="color:#2E8B57; font-size:36px; margin-bottom:8px;">
-    BUYE
+    Buye
   </h1>
 
   <h3 style="color:#333333; margin-top:0; font-weight:500;">
@@ -47,7 +47,7 @@
         Flexible Installment Plans
       </h3>
       <p style="margin:8px 0 0; color:#555555; line-height:1.6;">
-        Users can purchase products and repay through flexible durations such as 7, 14, 21, and 30 days. Each plan displays installment amounts, service charges, total payable amount, and repayment schedule before confirmation.
+        Users can purchase products and repay through flexible durations such as 7, 14, 21, and 30 days to maximum of 24 weeks. Each plan displays installment amounts, service charges, total payable amount, and repayment schedule before confirmation.
       </p>
     </td>
   </tr>
@@ -129,50 +129,9 @@
     <code style="background-color:#e3f2fd; color:#0d47a1; padding:5px 9px; border-radius:5px;">Realtime Database</code>
     <code style="background-color:#fff3e0; color:#e65100; padding:5px 9px; border-radius:5px;">Firebase Storage</code>
     <code style="background-color:#fff3e0; color:#e65100; padding:5px 9px; border-radius:5px;">Firebase Cloud Messaging</code>
-    <code style="background-color:#f3e5f5; color:#4a148c; padding:5px 9px; border-radius:5px;">Cloudinary</code>
   </p>
 
 </div>
-
-<br>
-
-<h2 style="font-family: Arial, sans-serif; color:#333333;">
-  App Modules
-</h2>
-
-<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif;">
-  <tr style="background-color:#f6f8fa;">
-    <th align="left" style="padding:12px; color:#333333; border:1px solid #e5e7eb;">Module</th>
-    <th align="left" style="padding:12px; color:#333333; border:1px solid #e5e7eb;">Purpose</th>
-  </tr>
-
-  <tr>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#2E8B57;"><b>Authentication</b></td>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#555555;">Handles onboarding, signup, login, Google Sign-In, password recovery, and PIN verification.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#2E8B57;"><b>Dashboard</b></td>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#555555;">Displays user balance, outstanding payments, featured products, recent purchases, and navigation.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#2E8B57;"><b>Shopping</b></td>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#555555;">Allows users to browse products, view details, select plans, and complete purchases.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#2E8B57;"><b>Profile & KYC</b></td>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#555555;">Manages user profile, phone number, verification documents, account settings, and support pages.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#2E8B57;"><b>Payments</b></td>
-    <td style="padding:12px; border:1px solid #e5e7eb; color:#555555;">Tracks installment schedules, payment status, purchase history, due dates, and outstanding balances.</td>
-  </tr>
-</table>
-
-<br>
 
 <div style="font-family: Arial, sans-serif; background-color:#f6f8fa; padding:20px; border-radius:10px; border-left:4px solid #2E8B57;">
 
